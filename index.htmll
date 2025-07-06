@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Welcome to coding club</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #FFF5D7; /* pastel yellow */
+      color: #D63384; /* bright pink */
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #D63384;
+    }
+    p {
+        font-size: 18px;
+    }
+    img {
+      width: 300px;
+      border-radius: 10px;
+      border: 3px solid #D63384;
+      margin-top: 20px;
+    }
+    a {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background-color: #D63384;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-weight: bold;
+    }
+    a:hover {
+      background-color: #b02066;
+    }
+  </style>
+    </head>
+  <body>
+    <h1>Welcome to Mia's Cool Website!</h1>
+    <p>This is an experimental website. Thanks for visiting💖</p>
+    <img src="htpps://via.placeholder.com/300x200/FFDDEE/000000?text=Hello+from+mia!" alt="A message from Mia">
+    <p><a href="https://example.com" target="_blank">Click to explore more</a></p>
+  </body>
+</html>
+      
